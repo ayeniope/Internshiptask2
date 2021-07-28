@@ -43,3 +43,5 @@ Below is the section that stressed me most in the project:
     border-radius: 10px;    
 }
 **I look forward to learning more on CSS**
+
+link to the live website  https://fylo-landingpage-oa.netlify.app/
