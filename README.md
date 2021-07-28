@@ -15,6 +15,9 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 I was able to work on responsiveness for the first time.
 The aspect of placing a div over the footer was a bit difficult but after reading some articles I was able to get it and I am sure I will be able to tackle such easily in the future.
 
+link to the live website      
+https://fylo-landingpage-oa.netlify.app/
+
 Below is the section that stressed me most in the project:
 
 ```html
@@ -44,4 +47,4 @@ Below is the section that stressed me most in the project:
 }
 **I look forward to learning more on CSS**
 
-link to the live website       https://fylo-landingpage-oa.netlify.app/
+
