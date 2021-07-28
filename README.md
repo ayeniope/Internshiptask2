@@ -44,4 +44,4 @@ Below is the section that stressed me most in the project:
 }
 **I look forward to learning more on CSS**
 
-link to the live website  https://fylo-landingpage-oa.netlify.app/
+link to the live website       https://fylo-landingpage-oa.netlify.app/
